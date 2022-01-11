@@ -1,0 +1,13 @@
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\bin\Debug\netcoreapp3.1\FinalGabrielaMartinez.exe
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\bin\Debug\netcoreapp3.1\FinalGabrielaMartinez.deps.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\bin\Debug\netcoreapp3.1\FinalGabrielaMartinez.runtimeconfig.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\bin\Debug\netcoreapp3.1\FinalGabrielaMartinez.runtimeconfig.dev.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\bin\Debug\netcoreapp3.1\FinalGabrielaMartinez.dll
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\bin\Debug\netcoreapp3.1\FinalGabrielaMartinez.pdb
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.csprojAssemblyReference.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.AssemblyInfoInputs.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.AssemblyInfo.cs
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.csproj.CoreCompileInputs.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.dll
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.pdb
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\FinalGabrielaMartinez\FinalGabrielaMartinez\obj\Debug\netcoreapp3.1\FinalGabrielaMartinez.genruntimeconfig.cache
